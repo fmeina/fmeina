@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently still developing in .NET and exploring everything linked with cloud
 
-Feel free to checkout my repos and use it if needed. Let me know if anything you've founded here was usefull.
+Feel free to checkout my repos and use it if needed. Let me know if anything you've found here was usefull.
 
 Cheers
 <!---
