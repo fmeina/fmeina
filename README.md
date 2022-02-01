@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Filip!
+- 👋 Hi, I’m Filip, CS student and Software Engineer!
 - 👀 I’m interested in web development
 - 🌱 I’m currently still developing in .NET and exploring everything linked with cloud
 
